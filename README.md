@@ -56,6 +56,6 @@ The dataset used for this project is `dataset.csv`, containing information about
     pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
     ```
 3.  **Download the dataset:**
-    Place the `dataset.csv` file in the `/content/drive/MyDrive/ICT - Ai Ml/Exit_Exam/Dataset/` directory or update the `file_path` variable in the notebook to point to the correct location of your dataset.
+    Place the `dataset.csv` file directory or update the `file_path` variable in the notebook to point to the correct location of your dataset.
 4.  **Execute the notebook:**
     Open and run the notebook cells sequentially in a Jupyter environment (e.g., Google Colab, Jupyter Lab, Jupyter Notebook).
