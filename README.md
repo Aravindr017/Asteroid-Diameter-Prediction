@@ -53,8 +53,10 @@ The dataset used for this project is `dataset.csv`, containing information about
 2.  **Install dependencies:**
     Ensure you have Python 3.x installed. Install the required libraries:
     ```bash
-    pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
+    pip install streamlit tensorflow pandas numpy matplotlib seaborn scikit-learn
+      streamlit run app.py
     ```
+
 3.  **Download the dataset:**
     Place the `dataset.csv` file directory or update the `file_path` variable in the notebook to point to the correct location of your dataset.
 4.  **Execute the notebook:**
